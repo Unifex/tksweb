@@ -23,6 +23,14 @@ backend system and referenced by the work request number.
 Once activities have been entered into the database they can be exported in
 TKS format.
 
+Setup
+-----
+
+Initial setup instructions are in the [deployment-notes](http://127.0.0.1:3000/reset/92400e2f6fc56269221829ec41ae51b3) file.
+
+Kudos/Tech
+----------
+
 The user interface is implemented in Javascript using
 [Backbone](http://backbonejs.org/), [jQuery](http://jquery.com/),
 [jQueryUI](http://jqueryui.com/), [Handlebars](http://handlebarsjs.com/) and
